@@ -1,0 +1,62 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color:black
+}
+
+section {
+
+}
+h3{
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  margin-right: 50px;
+}
+
+.align-row{
+  color: black;
+  padding: 10px;
+  text-align: center;
+  margin-right: 50px;
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  height: 350px;
+  background-color: #00B7FF ;
+  opacity: 0.4;
+}
+
+
+ul{ background-color: #12fe39;
+  opacity: 0.5;
+  font-size: 12px;
+  margin-bottom: 12px;
+  padding: 10px;
+  text-align: center;
+}
+ul {
+    list-style: none;
+    justify-content: space-between;
+    word-spacing: 20px
+}
+li {
+  display: inline-block;
+
+
+}
+nav{
+  display: block;
+  justify-content: space-around;
+
+}
+
+header nav ul li a:any-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 18px;
+  color: black;
+  display: inline-block;
+
+}
+
+
+
